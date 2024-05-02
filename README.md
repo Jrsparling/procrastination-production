@@ -21,6 +21,7 @@ Follow link to the deployed site here --> <link> </link>
 
 Starter code contributors: https://github.com/mcewball13, https://github.com/Xandromus
 Starter code Repo: https://github.com/coding-boot-camp/musical-happiness/tree/main
+Vertically centered modal: https://getbootstrap.com/docs/4.0/components/modal/#vertically-centered
 
 ## License
 
