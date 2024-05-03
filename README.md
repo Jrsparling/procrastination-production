@@ -14,9 +14,9 @@ This is a simple kanban board that allows the users to create a todo list that s
 
 ## Deployed Site
 
-![Alt text] (procrastination-production\assets\images\Screenshot for task board.jpg)
+<img src = "procrastination-production\assets\images\Screenshot for task board.jpg">
 
-Follow link to the deployed site here --> 
+Follow link to the deployed site here --> https://jrsparling.github.io/procrastination-production/
 
 ## Credits
 
