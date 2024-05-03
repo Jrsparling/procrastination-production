@@ -2,7 +2,7 @@
 
 ## Description
 
-what is this?
+This is a task board that keeps track of tasks and due dates. 
 
 ## Installation
 
@@ -10,12 +10,11 @@ N/A
 
 ## Usage
 
-how do you use this
+This is a simple kanban board that allows the users to create a todo list that sections off tasks into different catagories. When adding a new task you input the title, description, and the due date to create a new element that is draggable. 
 
 ## Deployed Site
 
-this is where the screenshot is added along with the link to the site.
-Follow link to the deployed site here --> <link> </link>
+Follow link to the deployed site here --> 
 
 ## Credits
 
